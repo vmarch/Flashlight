@@ -12,7 +12,7 @@ Welcome to the “Flashlight” Privacy Policy.
 When you use “Flashlight”, you trust us with your information.
 
 Privacy Policy.
-Last modified: April 27, 2017. 
+Last modified: August 27, 2017. 
 
 
 Information we collect:
@@ -33,7 +33,7 @@ We will post any privacy policy changes on this page.
 Користуючись “Flashlight”, ви довіряєте нам свою інформацію.
 
 Політика конфіденційності.
-Остання зміна: 27 квітня 2017 р. 
+Остання зміна: 27 серпня 2017 р. 
 
 Інформація, яку ми збираємо:
 Ми не збираємо жодної інформації.
@@ -52,7 +52,7 @@ We will post any privacy policy changes on this page.
 Используя “Flashlight”, вы доверяете нам свою информацию.
 
 Политика конфиденциальности.
-Последнее изменение: 27 апреля 2017.
+Последнее изменение: 27 августа 2017.
 
 Информация, которую мы собираем:
 Мы не собираем никакой информации.
