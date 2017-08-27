@@ -1,25 +1,27 @@
 Privacy Policy
+
 Політика конфіденційності
+
 Политика конфиденциальности
 
 * * * * *
 
 English Version
 
-Welcome to the “Flashlight” Privacy Policy
+Welcome to the “Flashlight” Privacy Policy.
 When you use “Flashlight”, you trust us with your information.
 
-Privacy Policy
+Privacy Policy.
 Last modified: April 27, 2017. 
 
 
 Information we collect:
 We do not collect any information.
 
-When this Privacy Policy applies
+When this Privacy Policy applies:
 Our Privacy Policy applies to “Flashlight”.
 
-Changes
+Changes:
 Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent.
 We will post any privacy policy changes on this page.
 
@@ -27,19 +29,19 @@ We will post any privacy policy changes on this page.
 *****
 Українська версія
 
-Ласкаво просимо в Політику конфіденційності мобільного додатка “Flashlight”
-Коли ви використовуєте “Flashlight”, ви довіряєте нам свою інформацію.
+Ласкаво просимо в Політику конфіденційності мобільного додатка “Flashlight”.
+Користуючись “Flashlight”, ви довіряєте нам свою інформацію.
 
-Політика конфіденційності
+Політика конфіденційності.
 Остання зміна: 27 квітня 2017 р. 
 
 Інформація, яку ми збираємо:
 Ми не збираємо жодної інформації.
 
-Коли ця Політика конфіденційності застосовується
+Коли ця Політика конфіденційності застосовується:
 Наша Політика конфіденційності стосується додатка “Flashlight”.
 
-Зміни
+Зміни:
 Наша Політика конфіденційності може змінюватися час від часу. Ми не зменшимо ваші права згідно з цією Політикою конфіденційності без
 вашої явної згоди. Ми публікуємо всі зміни політики конфіденційності на цій сторінці.
 
@@ -49,16 +51,15 @@ We will post any privacy policy changes on this page.
 Добро пожаловать в Политику конфиденциальности мобильного приложения “Flashlight”
 Используя “Flashlight”, вы доверяете нам свою информацию.
 
-Политика конфиденциальности
-
+Политика конфиденциальности.
 Последнее изменение: 27 апреля 2017.
 
 Информация, которую мы собираем:
 Мы не собираем никакой информации.
 
-Когда эта Политика конфиденциальности применяется
+Когда эта Политика конфиденциальности применяется:
 Наша Политика конфиденциальности относится к приложению “Flashlight”.
 
-Изменения
+Изменения:
 Наша Политика конфиденциальности может меняться время от времени. Мы не уменьшим ваши права в соответствии с настоящей
 Политикой конфиденциальности без вашего явного согласия. Мы публикуем все изменения политики конфиденциальности на этой странице.
