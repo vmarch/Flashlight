@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+
+    <string name="action_policy">Правила</string>
+    <string name="privacy_full"><![CDATA[
+    <p><H1>English version</H1></p>
+    <p align="justify"><b>Welcome to the “Flashlight” Privacy Policy</b><br>
+	<br>
+    Last modified: December 10, 2017.<br>
+	<br>
+    We do not collect any confidential information.<br>
+	<br>
+	You can use "Flashlight" at your own discretion.<br>
+	<br>
+    Our Privacy Policy may change from time to time.
+    We will not reduce your rights under this Privacy Policy without your explicit consent.<br>
+    We will post any privacy policy changes in this application while update.<br>
+	<br>
+	***<br>
+	<br>
+
+    <p><H1>Українська версія</H1></p>
+    <p align="justify"><b>Ласкаво просимо в Політику конфіденційності мобільного додатка "Flashlight"</b><br>
+    <br>
+	Остання зміна політики конфіденційності: 10 грудня 2017 р.<br>
+	<br>
+	Ми не збираємо жодної конфіденційної інформації.<br>
+	<br>
+	Ви можете використовувати додаток "Flashlight" на власний розсуд<br>
+	<br>
+	Наша Політика конфіденційності може змінюватися час від часу.
+	Ми не зменшимо ваші права згідно з цією Політикою конфіденційності без вашої явної згоди.<br>
+	Ми публікуємо всі зміни політики конфіденційності у цій програмі при оновленні.<br>
+	<br>
+  ***<br>
+  <br>
+    <p><H1>Русская версия</H1></p>
+    <p align="justify"><b>Добро пожаловать в Политику конфиденциальности мобильного приложения "Flashlight".</b><br>
+	<br>
+    Последнее изменение политики конфиденциальности: 10 декабря 2017.<br>
+	<br>
+    Мы не собираем никакой конфиденциальной информации.<br>
+    <br>
+    Вы можете использовать приложение "Flashlight" на ваше усмотрение.<br>
+    <br>
+    Наша Политика конфиденциальности может меняться время от времени.
+    Мы не уменьшим ваши права в соответствии с настоящей Политикой конфиденциальности
+    без вашего явного согласия.
+    <br>
+    Мы публикуем все изменения политики конфиденциальности в приложенни при обновлении.
+    ]]></string>
+
+</resources>
