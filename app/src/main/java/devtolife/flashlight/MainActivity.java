@@ -1,12 +1,12 @@
 package devtolife.flashlight;
 
-
 import android.content.pm.PackageManager;
 import android.hardware.Camera;
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.ImageButton;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
@@ -15,7 +15,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private Camera.Parameters param;
     private boolean hasFlash;
     private boolean on = false;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -38,7 +37,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }
     }
 
-
     @Override
     public void onClick(View v) {
 
@@ -60,7 +58,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             on = true;
         }
     }
-
 
     private void turnOff() {
 
